@@ -4,9 +4,6 @@ Welcome to Habit Quest, a full-stack web application designed to turn building p
 
 This project is built with a modern MERN-like stack (MongoDB, Express, React, Node.js) and features a clean, scalable architecture.
 
-![Habit Quest App Screenshot](https://via.placeholder.com/800x450.png?text=Add+A+Screenshot+Of+Your+App+Here!)
-*(Replace the placeholder above with a real screenshot of your application's dashboard)*
-
 ---
 
 ## ✨ Features
